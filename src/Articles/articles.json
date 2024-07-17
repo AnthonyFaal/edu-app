@@ -1,10 +1,10 @@
 {
   "article": [
-    {
+    {   "id": 1,
         "title": "The Importance of Waste Sorting in Ghana: A Comprehensive Guide to Sustainable Living",
         "author": "EcoLiving Ghana",
         "date": "2024-07-17",
-        "image": "https://example.com/images/waste-sorting-ghana.jpg",
+        "image": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVjeWNsaW5nfGVufDB8fDB8fHww",
         "content": {
           "introduction": "Waste sorting is a crucial practice for achieving a sustainable and eco-friendly lifestyle in Ghana. It involves separating waste materials into different categories to ensure proper disposal, recycling, and composting. This guide explores the significance of waste sorting in Ghana, the challenges faced, and provides practical tips to implement it effectively.",
           "sections": [
@@ -49,10 +49,11 @@
       },
 
       {
+        "id": 2,
         "title": "Guide to Recycling Center Locations in Ghana: Promoting Sustainable Waste Management",
         "author": "EcoLiving Ghana",
         "date": "2024-07-17",
-        "image": "https://example.com/images/recycling-center-ghana.jpg",
+        "image": "https://images.unsplash.com/photo-1591193686104-fddba4d0e4d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2FzdGUlMjByZWN5Y2xpbmd8ZW58MHx8MHx8fDA%3D",
         "content": {
           "introduction": "Recycling centers play a vital role in promoting sustainable waste management practices in Ghana. They provide convenient locations for individuals and businesses to dispose of recyclable materials properly. This guide explores the importance of recycling centers, their benefits, and provides detailed information on key recycling center locations in Ghana.",
           "sections": [
@@ -84,11 +85,12 @@
         }
       },
    
-      {
+      { 
+        "id": 3,
         "title": "A Comprehensive Guide to Composting in Ghana: Turning Waste into Wealth",
         "author": "EcoLiving Ghana",
         "date": "2024-07-17",
-        "image": "https://example.com/images/composting-ghana.jpg",
+        "image": "https://images.unsplash.com/photo-1592484773536-263bf52e81fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcG9zdGluZ3xlbnwwfHwwfHx8MA%3D%3D",
         "content": {
           "introduction": "Composting is an effective and eco-friendly way to manage organic waste in Ghana. By converting kitchen scraps, yard trimmings, and other biodegradable materials into nutrient-rich compost, we can reduce waste, improve soil health, and support sustainable agriculture. This guide provides detailed information on the importance of composting, how to get started, and best practices for successful composting in Ghana.",
           "sections": [
