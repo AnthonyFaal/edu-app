@@ -43,6 +43,7 @@ const ArticleList = () => {
       </li>
     ))}
   </ul>
+  <a href="https://blog.bay-cities.com/blog/the-truth-about-a-circular-economy ">More...</a>
 </div>
   );
 };
